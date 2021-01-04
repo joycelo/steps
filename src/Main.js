@@ -12,7 +12,7 @@ class Main extends React.Component {
     return (
       <div>
           <Timeline>
-            <Timeline.Item color="green">Abt</Timeline.Item>
+            <Timeline.Item color="green">Ab</Timeline.Item>
             <Timeline.Item color="red">Cnt</Timeline.Item>
             <Timeline.Item color="blue">Lnx</Timeline.Item>
             <Timeline.Item color="gray">Mc</Timeline.Item>
